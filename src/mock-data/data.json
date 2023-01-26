@@ -1,0 +1,50 @@
+[
+    {
+        "email": "abc@gmail.com",
+        "first_name": "Amanda",
+        "last_name": "Junior",
+        "primary_group": "Important people",
+        "phone_number": "123123",
+        "hours_studied": "450"
+    },
+    {
+        "email": "def@gmail.com",
+        "first_name": "Manuela",
+        "last_name": "Oliveira",
+        "primary_group": "Important people",
+        "phone_number": "456456",
+        "hours_studied": "120"
+    },
+    {
+        "email": "ghi@gmail.com",
+        "first_name": "Gustavo",
+        "last_name": "Alexander",
+        "primary_group": "Emergency people",
+        "phone_number": "789789",
+        "hours_studied": "300"
+    },
+    {
+        "email": "jkl@gmail.com",
+        "first_name": "Jonh",
+        "last_name": "Hans",
+        "primary_group": "Emergency people",
+        "phone_number": "741258",
+        "hours_studied": "30"
+    },
+    {
+        "email": "mno@gmail.com",
+        "first_name": "Maria",
+        "last_name": "Clara",
+        "primary_group": "Intern",
+        "phone_number": "963235",
+        "hours_studied": "80"
+    },
+    {
+        "email": "pqr@gmail.com",
+        "first_name": "Pietro",
+        "last_name": "Ramns",
+        "primary_group": "Intern",
+        "phone_number": "231654",
+        "hours_studied": "600"
+    }
+]
