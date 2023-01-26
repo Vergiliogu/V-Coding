@@ -1,4 +1,6 @@
-export const mockDataKeys = [
+import { MockDataKeysProps } from "./mock-data.types"
+
+export const mockDataKeys: MockDataKeysProps[] = [
     "email",
     "first_name",
     "last_name",
