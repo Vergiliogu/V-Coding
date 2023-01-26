@@ -1,5 +1,11 @@
+import ConsultPage from "./views/consult-page";
+
 const App = ()  =>{
-  return <h1>App</h1>;
+  return (
+    <div>
+      <ConsultPage />
+    </div>
+  );
 }
 
 export default App
