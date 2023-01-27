@@ -11,6 +11,10 @@ export const TextInput = styled.input.attrs({
     border-radius: 4px;
     font-size: 14px;
     margin-left: 20px;
+    
+    @media (max-width: 640px) {
+        margin: 10px 0px;
+    }
 
     &:focus {
         outline: 1.5px solid #2684ff;

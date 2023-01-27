@@ -14,6 +14,7 @@ const SelectFilter = (props: T.SelectFilterProps) => {
                     ...baseStyles,
                     height: "40px",
                     minWidth: "160px",
+                    maxWidth: "200px",
                     fontSize: "14px",
                     ":focus": {
                         outline: "none"
