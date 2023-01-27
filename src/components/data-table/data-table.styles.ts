@@ -15,6 +15,7 @@ export const THead = styled.thead`
 	
 	th {
 		padding: 6px 20px 6px 10px;
+		cursor: pointer;
 
 		&:first-of-type {
 			border-top-left-radius: 7px;
